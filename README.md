@@ -7,5 +7,9 @@
 </div>
 
 <p align="center">
+  <img src="troymendoza-businesscard.png" width="100%">
+</p>
+
+<p align="center">
   <img src="header-footer.png" width="100%">
 </p>
