@@ -19,4 +19,6 @@ Data Encoder, Front-End Developer and Graphic Designer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=troymendoza&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="header.png" width="100%" />
+</p>
