@@ -2,13 +2,11 @@
   <img src="header-footer.png" width="100%" />
 </p>
 
-<details open>
-  <summary><b>👋 Welcome! (Click to collapse)</b></summary>
-  <br>
-  <h1>Hi! I'm Troy Mendoza</h1>
-  <h3>Front-End Developer | UI/UX Designer</h3>
-  <hr>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://demolab.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://demolab.com">
+  <img alt="Typing Animation" src="https://demolab.com">
+</picture>
 
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
