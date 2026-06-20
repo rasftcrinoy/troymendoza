@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Troy+%F0%9F%91%8B;Front-End+Developer;IT+Student;Building+Creative+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi!%2C+I'm+Troy+Mendoza+%F0%9F%91%8B/>
 </p>
 
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:troymendoza099@gmail.com) 
