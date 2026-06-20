@@ -2,6 +2,10 @@
   <img src="header-footer.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Troy+%F0%9F%91%8B;Front-End+Developer;IT+Student;Building+Creative+Digital+Experiences" />
+</p>
+
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
 
