@@ -2,11 +2,9 @@
   <img src="header-footer.png" width="100%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://demolab.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://demolab.com">
-  <img alt="Typing Animation" src="https://demolab.com">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C824F&width=435&lines=Hello!+My+name's+Troy+Mendoza.;I+am+a+Front-End+Developer;and+a+UI%2FUX+Designer.)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C824F&width=435&lines=Hello!+My+name's+Troy+Mendoza.;I+am+a+Front-End+Developer;and+a+UI%2FUX+Designer." alt="Typing SVG" /></a>
 
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
