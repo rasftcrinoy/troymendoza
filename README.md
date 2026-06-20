@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.png" width="100%" />
+</p>
+
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
 
