@@ -11,24 +11,23 @@
 <hr>
 
 <!-- Section 1 - Introduction code -->
-  <div align="center">
-  
-  <img src="typing.gif" width="300" align="left" style="margin-right: 30px;">
-  
-  <h1>How would you describe yourself?</h1>
-  
-  <div style="background-color:#4C824F; padding:20px; border-radius:15px;">
-  
-  <p style="color:white;">
-  Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts. 
-  From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple. 
-  Therefore, I specialized on developing the front-end interfaces of web applications and software systems. 
-  I also dabble on the UI and UX architecture of software systems to understand what makes applications user-friendly and usable in the long run.
-  </p>
+  <div align="center"> 
+    <table> 
+      <tr> 
+        <td> 
+          <img src="typing.gif" width="300"> 
+        </td> 
+        <td> 
+          <h1>How would you describe yourself?</h1> 
+          <p> 
+            Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts. 
+            From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple. 
+            Therefore, I specialized on developing the front-end interfaces of web applications and software systems. 
+            I also dabble on the UI and UX architecture of software systems to understand what makes applications user-friendly and usable in the long run. </p> 
+        </td> 
+      </tr> 
+    </table> 
   </div>
-  <br clear="left">
-  </div>
-
 <hr>
 
 <!-- This is the business card code -->
