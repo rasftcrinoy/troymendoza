@@ -96,6 +96,7 @@
 <!-- Quotation code -->
 <p align="center">
   <img src="https://img.shields.io/badge/Simplicity%20is%20the%20ultimate%20sophistication-4C824F?style=for-the-badge" />
+  <br>
   <b>— Steve Jobs</b>
 </p>
 
