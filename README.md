@@ -29,6 +29,8 @@
     </table> 
   </div>
 
+<hr>
+
 <!-- Section 1 - Tech used code -->
   <h2><code>💻 What technologies have you used?</code></h2> 
 
