@@ -85,8 +85,8 @@
 <!-- Section 2 - GitHub stats code -->
 <h2><code>📈 What is the status of your GitHub statistics?</code></h2>
 
-![](https://github-readme-stats.shion.dev/api?username=troymendoza&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=troymendoza&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=troymendoza&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=troymendoza&theme=shadow_green&hide_border=false)<br/>
 
 <hr>
 
