@@ -13,13 +13,13 @@
 <!-- Section 1 - Introduction code -->
 <div align="center">
 
+<!-- TITLE -->
+  <h2><code>❓ How would you describe yourself?</code></h2>
+  
   <!-- GIF -->
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
   <br>
-
-  <!-- TITLE -->
-  <h2><code>❓ How would you describe yourself?</code></h2>
   
   <!-- GREEN BLOCK PARAGRAPH -->
   <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
