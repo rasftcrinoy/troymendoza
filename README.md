@@ -86,10 +86,9 @@
 <h2><code>📈 What is the status of your GitHub statistics?</code></h2>
 
 <p align="center">
-![](https://github-readme-stats.shion.dev/api?username=troymendoza&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=troymendoza&theme=shadow_green&hide_border=false)<br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=troymendoza&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=troymendoza&theme=shadow_green&hide_border=false" height="170"/>
 </p>
-<hr>
 
 <!-- This is the business card code -->
 <p align="center">
