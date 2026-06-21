@@ -12,25 +12,26 @@
 
 <!-- Section 1 - Introduction code -->
 <div align="center">
-<table style="width:100%; max-width:900px;">
+<table width="100%" style="max-width:900px;">
   <tr>
-    <td align="center" style="padding:10px;">
-      <img src="typing.gif" width="260" style="max-width:100%; height:auto;">
+    <!-- LEFT SIDE (GIF) -->
+    <td width="40%" align="center" valign="top">
+      <img src="typing.gif" width="250" style="max-width:100%; height:auto;">
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:10px;">
+    <!-- RIGHT SIDE (TEXT) -->
+    <td width="60%" align="left" valign="top">
       <h2><code>❓ How would you describe yourself?</code></h2>
-      <p style="font-size:15px; line-height:1.6; max-width:700px;">
+      <p style="font-size:15px; line-height:1.6;">
         Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.
         From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.
-        Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.
+        Therefore, I specialized in developing the <b>front-end interfaces</b> of web applications and software systems.
         I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
       </p>
     </td>
   </tr>
 </table>
 </div>
+
 <hr>
 
 <!-- Section 2 - Tech Used code -->
