@@ -28,7 +28,7 @@
       <br>
       <img src="https://img.shields.io/badge/VISUALLY%20PLEASING%20AND%20ICONICALLY%20SIMPLE.%20THEREFORE,%20I%20SPECIALIZED%20IN%20DEVELOPING%20FRONT%20END%20INTERFACES-4C824F?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS.%20I%20ALSO%20EXPLORE -4C824F?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS.%20I%20ALSO%20EXPLORE%20UI%20AND%20UX%20ARCHITECTURE-4C824F?style=for-the-badge" />
       <br>
     </tr>
   </table>
