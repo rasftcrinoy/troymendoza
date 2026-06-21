@@ -24,7 +24,7 @@
   <!-- GREEN BLOCK PARAGRAPH -->
   <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
     <tr>
-    <img src="https://img.shields.io/badge/EVER%20SINCE%20I%20WAS%20LITTLE,%20I'VE%20ALWAYS%20HAD%20A%20PASSION%20FOR%20DESIGN,%20FROM%20TRADITIONAL%20ARTS%20AND%20CRAFTS%20TO%20GRAPHIC%20ARTS.-4C824F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/EVER%20SINCE%20I%20WAS%20LITTLE,%20I'VE%20ALWAYS%20HAD%20A%20PASSION%20FOR%20DESIGN,%20FROM%20TRADITIONAL%20ARTS%20AND%20CRAFTS%20TO%20GRAPHICS-4C824F?style=for-the-badge" />
       <br>
       <img src="https://img.shields.io/badge/FROM%20THESE%20INGRAINED%20HOBBIES,%20I%20DEVELOPED%20A%20KEEN%20EYE%20ON%20WHAT%20MAKES%20SOMETHING-4C824F?style=for-the-badge" />
       <br>
