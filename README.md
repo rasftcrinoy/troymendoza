@@ -11,22 +11,33 @@
 <hr>
 
 <!-- Section 1 - Introduction code -->
+
 <div align="center">
 
   <!-- GIF -->
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
-  <br>
+  <br><br>
 
   <!-- TITLE -->
   <h2><code>❓ How would you describe yourself?</code></h2>
-  
+
+  <br>
+
   <!-- GREEN BLOCK PARAGRAPH -->
-  <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
+  <table style="max-width:900px; border:2px solid #4C824F; border-radius:10px;">
     <tr>
-    <img src="https://img.shields.io/badge/EVER%20SINCE%20I%20WAS%20LITTLE,%20I'VE%20ALWAYS%20HAD%20A%20PASSION%20FOR%20DESIGN,%20FROM%20TRADITIONAL%20ARTS%20AND%20CRAFTS%20TO%20GRAPHIC%20ARTS.%20FROM%20THESE%20DEEP-ROOTED%20HOBBIES,%20I%20DEVELOPED%20A%20KEEN%20EYE%20ON%20WHAT%20MAKES%20SOMETHING%20VISUALLY%20PLEASING%20AND%20ICONICALLY%20SIMPLE.%20THEREFORE,%20I%20SPECIALIZED%20IN%20DEVELOPING%20FRONT-END%20INTERFACES%20OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS.%20I%20ALSO%20EXPLORE%20UI%20AND%20UX%20ARCHITECTURE%20TO%20UNDERSTAND%20WHAT%20MAKES%20APPLICATIONS%20USER-FRIENDLY%20AND%20USABLE%20IN%20THE%20LONG%20RUN.-4C824F?style=for-the-badge" /> 
+      <td align="center" style="padding:20px;">
+        <p style="font-size:15px; line-height:1.6; margin:0;">
+          Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.  
+          From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.  
+          Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.  
+          I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
+        </p>
+      </td>
     </tr>
   </table>
+
 </div>
 
 <hr>
