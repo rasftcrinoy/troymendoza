@@ -12,19 +12,32 @@
 
 <!-- Section 1 - Introduction code -->
 <div align="center">
-<table style="width:100%; max-width:900px;">
-  <tr>
-    <td align="center" style="padding:10px;">
-      <h2><code>❓ How would you describe yourself?</code></h2>
-      <p style="font-size:15px; line-height:1.6; max-width:700px;">
-        Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.
-        From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.
-        Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.
-        I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
-      </p>
-    </td>
-  </tr>
-</table>
+  
+  <!-- GIF WITH BORDER -->
+  <table style="border:3px solid #4C824F; border-radius:10px; padding:6px;">
+    <tr>
+      <td align="center">
+        <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <!-- TEXT SECTION -->
+  <table style="width:100%; max-width:900px;">
+    <tr>
+      <td align="center" style="padding:10px;">
+        <h2><code>❓ How would you describe yourself?</code></h2>
+        <p style="font-size:15px; line-height:1.6; max-width:700px;">
+          Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.
+          From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.
+          Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.
+          I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>
