@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<img src="./assets/intro.gif" width="300">
+<img src="typing.gif" width="300">
 
 </td>
 
