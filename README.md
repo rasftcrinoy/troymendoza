@@ -15,11 +15,6 @@
 <table style="width:100%; max-width:900px;">
   <tr>
     <td align="center" style="padding:10px;">
-      <img src="typing.gif" width="260" style="max-width:100%; height:auto;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:10px;">
       <h2><code>❓ How would you describe yourself?</code></h2>
       <p style="font-size:15px; line-height:1.6; max-width:700px;">
         Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.
