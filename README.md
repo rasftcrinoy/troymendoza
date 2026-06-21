@@ -18,7 +18,7 @@
         <img src="typing.gif" width="300">
       </td>
   <td>
-      <h2>How would you describe yourself?</h2>
+      <h3>How would you describe yourself?</h3>
         <p>
           Front-End Developer passionate about creating clean and modern interfaces.
         </p>
