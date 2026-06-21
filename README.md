@@ -49,6 +49,37 @@
 <!-- Section 3 - Achievements code -->
 <h2><code>🏆 What are your achievements so far?</code></h2>
 
+<div align="center">
+
+  <img src="ai-funda.png" width="110"/>
+  <img src="assoc.png" width="110"/>
+  <img src="comp-mob.png" width="110"/>
+  <img src="ctm.png" width="110"/>
+  <img src="cybersec.png" width="110"/>
+  <img src="dev-config.png" width="110"/>
+  <img src="digi-awa.png" width="110"/>
+
+  <br>
+
+  <img src="excel.png" width="110"/>
+  <img src="hardware.png" width="110"/>
+  <img src="ic3.png" width="110"/>
+  <img src="intro-ai.png" width="110"/>
+  <img src="intro-cybersec.png" width="110"/>
+  <img src="intro-iot.png" width="110"/>
+  <img src="it-cust.png" width="110"/>
+
+  <br>
+
+  <img src="netw-sec.png" width="110"/>
+  <img src="netw.png" width="110"/>
+  <img src="pmi.png" width="110"/>
+  <img src="ppt.png" width="110"/>
+  <img src="reports.png" width="110"/>
+  <img src="software-dev.png" width="110"/>
+  <img src="word.png" width="110"/>
+
+</div>
 <hr>
 
 <!-- Section 2 - GitHub stats code -->
