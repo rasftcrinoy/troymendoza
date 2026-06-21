@@ -94,10 +94,10 @@
 <hr>
 
 <!-- Quotation code -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Quote-Simplicity%20is%20the%20ultimate%20sophistication.-4C824F?style=for-the-badge" />
-  <br>
-  <sub>— Steve Jobs</sub>
+<p align="center" style="font-size:22px;">
+<strong>"Simplicity is the ultimate sophistication."</strong>
+<br><br>
+— Steve Jobs
 </p>
 
 <!-- This is the business card code -->
