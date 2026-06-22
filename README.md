@@ -10,28 +10,17 @@
 
 <hr>
 
-<!-- Section 1 - Introduction code -->
 <h2><code>❓ How would you describe yourself?</code></h2>
 
-<!-- GIF -->
 <div align="center">
-  <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
+  <img src="typing.gif" width="280">
 </div>
 
 <br>
-<br>
+
 ```javascript
 const troy = {
-  about: `
-    Ever since I was little, I've always had a passion for design,
-    from traditional arts and crafts projects to digital graphics.
-    From these ingrained childhood hobbies, I developed a keen eye
-    for what makes something visually pleasing and iconically simple.
-    Therefore, I specialize in developing front-end interfaces
-    for web applications and software systems.
-    I also explore UI design and UX architecture to understand
-    what makes applications intuitive and usable in the long run.
-  `,
+  about: "Front-End Developer passionate about design, UI/UX, and creating intuitive web experiences."
 };
 ```
 
