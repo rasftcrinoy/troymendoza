@@ -17,6 +17,7 @@
 </div>
 
 <br>
+
 ```javascript
 const troy = {
   about: "Ever since I was little, I've always had a passion for design."
