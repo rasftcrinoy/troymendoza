@@ -42,6 +42,7 @@ const troy = {
 <hr>
 
 
+
 <!-- Section 2 - Technologies -->
 <h2><code>💻 What technologies have you used?</code></h2>
 
@@ -77,6 +78,10 @@ const troy = {
     </td>
   </tr>
 </table>
+
+
+
+<hr>
 
 
 
